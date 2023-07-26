@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d2Q8xC03IC/3wiTCF4A2ka7Av8LC2ot3JG9eyFebNfP1wTu19DLYQQZIkIYweaPPbWvSmLSRMtCaSLM50Z38aw==",
+  "dgSpecHash": "/MzIyI4Z3XtNY4433rUiPDYPgUEp1FZYTaXW8Vb0mwZeXrH0+5kkfJpBPI9HC39sgJpvccHw0mgdKtsifd6zLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emerson\\Desktop\\CadastroClienteMVC\\CadastroClienteMVC\\CadastroClienteMVC.csproj",
+  "projectFilePath": "C:\\Users\\Emerson\\Desktop\\ProjetoCadastroCliente\\CadastroClienteMVC\\CadastroClienteMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emerson\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Emerson\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

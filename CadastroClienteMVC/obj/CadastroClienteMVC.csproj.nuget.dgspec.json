@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emerson\\Desktop\\CadastroClienteMVC\\CadastroClienteMVC\\CadastroClienteMVC.csproj": {}
+    "C:\\Users\\Emerson\\Desktop\\ProjetoCadastroCliente\\CadastroClienteMVC\\CadastroClienteMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emerson\\Desktop\\CadastroClienteMVC\\CadastroClienteMVC\\CadastroClienteMVC.csproj": {
+    "C:\\Users\\Emerson\\Desktop\\ProjetoCadastroCliente\\CadastroClienteMVC\\CadastroClienteMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emerson\\Desktop\\CadastroClienteMVC\\CadastroClienteMVC\\CadastroClienteMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Emerson\\Desktop\\ProjetoCadastroCliente\\CadastroClienteMVC\\CadastroClienteMVC.csproj",
         "projectName": "CadastroClienteMVC",
-        "projectPath": "C:\\Users\\Emerson\\Desktop\\CadastroClienteMVC\\CadastroClienteMVC\\CadastroClienteMVC.csproj",
+        "projectPath": "C:\\Users\\Emerson\\Desktop\\ProjetoCadastroCliente\\CadastroClienteMVC\\CadastroClienteMVC.csproj",
         "packagesPath": "C:\\Users\\Emerson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emerson\\Desktop\\CadastroClienteMVC\\CadastroClienteMVC\\obj\\",
+        "outputPath": "C:\\Users\\Emerson\\Desktop\\ProjetoCadastroCliente\\CadastroClienteMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

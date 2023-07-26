@@ -52,6 +52,7 @@
             this.btn_Novo = new RJCodeAdvance.RJControls.RJButton();
             this.lbl_Estado = new System.Windows.Forms.Label();
             this.cmb_Estado = new RJCodeAdvance.RJControls.RJComboBox();
+            this.rjButton1 = new RJCodeAdvance.RJControls.RJButton();
             this.SuspendLayout();
             // 
             // txt_Codigo
@@ -422,11 +423,30 @@
             this.cmb_Estado.TabIndex = 9;
             this.cmb_Estado.Texts = "";
             // 
+            // rjButton1
+            // 
+            this.rjButton1.BackColor = System.Drawing.Color.MediumSlateBlue;
+            this.rjButton1.BackgroundColor = System.Drawing.Color.MediumSlateBlue;
+            this.rjButton1.BorderColor = System.Drawing.Color.PaleVioletRed;
+            this.rjButton1.BorderRadius = 0;
+            this.rjButton1.BorderSize = 0;
+            this.rjButton1.FlatAppearance.BorderSize = 0;
+            this.rjButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.rjButton1.ForeColor = System.Drawing.Color.White;
+            this.rjButton1.Location = new System.Drawing.Point(178, 459);
+            this.rjButton1.Name = "rjButton1";
+            this.rjButton1.Size = new System.Drawing.Size(149, 30);
+            this.rjButton1.TabIndex = 11;
+            this.rjButton1.Text = "ESC - SAIR";
+            this.rjButton1.TextColor = System.Drawing.Color.White;
+            this.rjButton1.UseVisualStyleBackColor = false;
+            // 
             // frm_CadastroCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(340, 499);
+            this.Controls.Add(this.rjButton1);
             this.Controls.Add(this.btn_Excluir);
             this.Controls.Add(this.btn_Novo);
             this.Controls.Add(this.btn_Salvar);
@@ -484,5 +504,6 @@
         private RJCodeAdvance.RJControls.RJButton btn_Novo;
         private Label lbl_Estado;
         private RJCodeAdvance.RJControls.RJComboBox cmb_Estado;
+        private RJCodeAdvance.RJControls.RJButton rjButton1;
     }
 }
